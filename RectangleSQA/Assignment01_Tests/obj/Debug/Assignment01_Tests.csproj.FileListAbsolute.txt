@@ -1,0 +1,12 @@
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\Assignment01_Tests.dll
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\Assignment01_Tests.pdb
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\RectangleSQA.exe
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\RectangleSQA.pdb
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\RectangleSQA.exe.config
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\obj\Debug\Assignment01_Tests.csprojAssemblyReference.cache
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\obj\Debug\Assignment01_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\obj\Debug\Assignment01_Tests.csproj.CopyComplete
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\obj\Debug\Assignment01_Tests.dll
+C:\Users\Junaid Patel\source\repos\RectangleSQA\Assignment01_Tests\obj\Debug\Assignment01_Tests.pdb

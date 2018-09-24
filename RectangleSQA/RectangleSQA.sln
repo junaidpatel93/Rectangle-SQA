@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleSQA", "RectangleSQA\RectangleSQA.csproj", "{57DC5A48-4B32-40CA-8BB4-9D5C0DDDF981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment01_Tests", "Assignment01_Tests\Assignment01_Tests.csproj", "{DBC6DB2A-D9EF-4E39-B732-C5310CD8CD09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DC5A48-4B32-40CA-8BB4-9D5C0DDDF981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DC5A48-4B32-40CA-8BB4-9D5C0DDDF981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DC5A48-4B32-40CA-8BB4-9D5C0DDDF981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DC5A48-4B32-40CA-8BB4-9D5C0DDDF981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC6DB2A-D9EF-4E39-B732-C5310CD8CD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC6DB2A-D9EF-4E39-B732-C5310CD8CD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC6DB2A-D9EF-4E39-B732-C5310CD8CD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC6DB2A-D9EF-4E39-B732-C5310CD8CD09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {049D493A-AD72-4AEC-B788-6819C8A0DAC6}
+	EndGlobalSection
+EndGlobal

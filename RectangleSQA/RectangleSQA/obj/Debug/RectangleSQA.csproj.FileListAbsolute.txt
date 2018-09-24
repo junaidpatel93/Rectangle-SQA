@@ -1,0 +1,10 @@
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\bin\Debug\RectangleSQA.exe.config
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\bin\Debug\RectangleSQA.exe
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\bin\Debug\RectangleSQA.pdb
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\obj\Debug\RectangleSQA.csprojAssemblyReference.cache
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\obj\Debug\RectangleSQA.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\obj\Debug\RectangleSQA.exe
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\obj\Debug\RectangleSQA.pdb
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\bin\Debug\nunit.framework.dll
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\bin\Debug\nunit.framework.xml
+C:\Users\Junaid Patel\source\repos\RectangleSQA\RectangleSQA\obj\Debug\RectangleSQA.csproj.CopyComplete
